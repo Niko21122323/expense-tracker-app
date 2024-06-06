@@ -18,5 +18,4 @@ export default defineConfig({
       },
     },
   },
-  base: "http://nikos-expense-tracker-app.com/",
 })
