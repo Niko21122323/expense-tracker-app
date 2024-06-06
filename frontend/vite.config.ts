@@ -18,4 +18,5 @@ export default defineConfig({
       },
     },
   },
+  base: "https://expense-tracker-app-steel.vercel.app/",
 })
