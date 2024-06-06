@@ -1,7 +1,7 @@
 # example netlify.toml
 [build]
   base = "frontend"
-  command = "bun run build"
+  command = "curl -fsSL https://bun.sh/install | bash && export BUN_INSTALL=/home/user/.bun && export PATH=$BUN_INSTALL/bin:$PATH && bun run build"
   publish = "frontend/dist"
   functions = "netlify/functions"
 
