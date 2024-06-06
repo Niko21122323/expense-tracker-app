@@ -18,5 +18,5 @@ export default defineConfig({
       },
     },
   },
-  base: "https://expense-tracker-ja2bwwl61-niko21122323s-projects.vercel.app",
+  base: "https://expense-tracker-ja2bwwl61-niko21122323s-projects.vercel.app/",
 })
