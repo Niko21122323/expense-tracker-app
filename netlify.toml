@@ -2,7 +2,7 @@
 [build]
   base = "frontend"
   command = "curl -fsSL https://bun.sh/install | bash && export BUN_INSTALL=/home/user/.bun && export PATH=$BUN_INSTALL/bin:$PATH && bun run build"
-  publish = "frontend/dist"
+  publish = "dist"
   functions = "netlify/functions"
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
