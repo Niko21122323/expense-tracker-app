@@ -18,5 +18,5 @@ export default defineConfig({
       },
     },
   },
-  base: "https://expense-tracker-app-pi-opal.vercel.app/",
+  base: "expense-tracker-app-production.up.railway.app",
 })
