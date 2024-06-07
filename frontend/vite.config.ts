@@ -18,5 +18,5 @@ export default defineConfig({
       },
     },
   },
-  base: "https://expense-tracker-app-three-tawny.vercel.app",
+  base: "https://expense-tracker-app-pi-opal.vercel.app/",
 })
